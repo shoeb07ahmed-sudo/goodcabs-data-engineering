@@ -17,8 +17,10 @@ Application → Relational Database → AWS S3 → Databricks Lakehouse
 (Bronze → Silver → Gold)
 
 ## 🏗️ Architecture Diagram
+<p align="center">
+  <img src="3.other_files/architecture.png" alt="GoodCabs Data Engineering Architecture" width="850">
+</p>
 
-![GoodCabs Data Engineering Architecture](3_other_files/architecture.png)
 
 
 Key technologies:
