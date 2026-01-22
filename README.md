@@ -16,9 +16,10 @@ The goal is to design a **scalable, reliable, and streaming-capable data platfor
 Application → Relational Database → AWS S3 → Databricks Lakehouse  
 (Bronze → Silver → Gold)
 
-<p align="center">
-  <img src="3_other_files/architecture.png" alt="GoodCabs Data Engineering Architecture" width="850">
-</p>
+## 🏗️ Architecture Diagram
+
+![GoodCabs Data Engineering Architecture](3_other_files/architecture.png)
+
 
 Key technologies:
 - Relational Database
